@@ -1,0 +1,3 @@
+[submodule "android_caffe_jni"]
+	path = android_caffe_jni
+	url = https://github.com/xxxzxxx/android_caffe_jni.git
